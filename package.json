@@ -1,0 +1,19 @@
+{
+  "name": "portfolio_v2",
+  "version": "1.0.0",
+  "description": "node.js version of my portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markkmetz/Portfolio_v2.git"
+  },
+  "author": "Mark Kmetz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markkmetz/Portfolio_v2/issues"
+  },
+  "homepage": "https://github.com/markkmetz/Portfolio_v2#readme"
+}
